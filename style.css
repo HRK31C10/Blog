@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&display=swap');
+body{
+    width:60%;
+    margin: auto;    
+}
+.cont{
+    background-color: #e4c1f9;
+    padding: 10px;
+    border: solid;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+.data{
+    color:#3a86ff
+}
+.tit{
+    color:black
+}
+
+
